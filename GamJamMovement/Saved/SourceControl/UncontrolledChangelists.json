@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Engine/GamJamMovement/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Maps/Lvl_Debug.umap",
+				"C:/Unreal Engine/GamJamMovement/Content/Inputs/IMC_Keyboard.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Inputs/InputActions/IA_Look.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Inputs/InputActions/IA_Move.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/PlayerCharacter/BP_GameMode.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/PlayerCharacter/BP_PlayerCharacter.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/PlayerCharacter/BP_PlayerController.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Inputs/InputActions/IA_Jump.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Inputs/InputActions/IA_Dash.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/PlayerCharacter/PlayerUI/WBP_PlayerHUD.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/LP_LiteWeapons_JC/Materials/M_LiteWepons_01.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/LP_LiteWeapons_JC/Materials/M_LiteWepons_02.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/LP_LiteWeapons_JC/Materials/MI_LiteWepons_Emissive.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/LP_LiteWeapons_JC/Models/SM_SciFi_Weapons_06.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/LP_LiteWeapons_JC/SKM_SciFi_Weapons_06.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/LP_LiteWeapons_JC/SK_SciFi_Weapons_06.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Textures/Icons/SlideIcon.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Blueprints/AI/Enemy/BP_BasicEnemy.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Blueprints/AI/Enemy/BP_EnemyCharger.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Blueprints/AI/Enemy/TestPoint.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/LP_LiteWeapons_JC/SK_Weapons_04_MERGED.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/LP_LiteWeapons_JC/SKM_Weapons_04_MERGED.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Blueprints/BP_PushDamageType.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/Textures/Icons/Push_Icon.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/SKM_SciFi_Weapons_06.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/SK_SciFi_Weapons_06.uasset",
+				"C:/Unreal Engine/GamJamMovement/Content/PlayerCharacter/E_LocomotionState.uasset"
+			]
+		}
+	]
+}
