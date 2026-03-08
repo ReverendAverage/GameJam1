@@ -1,8 +1,17 @@
-[33020:29008:0308/121936.555:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[33020:29008:0308/121936.612:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9120:4028:0308/121939.701:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E88FB904DBB2D3AF3A738F209B9B587D will be ignored
-[33020:29008:0308/121943.367:ERROR:device_event_log_impl.cc(196)] [12:19:43.036] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[12352:17228:0308/121943.444:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[12352:17228:0308/121944.139:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[12352:17228:0308/121959.092:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[33020:29008:0308/122002.272:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16972:26668:0309/111930.880:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16972:26668:0309/111930.896:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[16972:27624:0309/111930.911:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16972:26668:0309/111930.936:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16972:10128:0309/111938.236:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16972:10128:0309/111938.239:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16972:10128:0309/111938.239:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16972:10128:0309/111938.241:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16972:10128:0309/111938.484:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16972:10128:0309/111938.486:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16972:15860:0309/111938.509:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16972:26668:0309/111938.646:ERROR:device_event_log_impl.cc(196)] [11:19:38.480] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[23776:25820:0309/111940.662:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-0C3CC0CD1B8CAEB3BA88ACD0213E9A3B will be ignored
+[16972:26488:0309/111941.851:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16972:26488:0309/111942.566:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16972:26488:0309/111942.625:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16972:26668:0309/114258.907:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
