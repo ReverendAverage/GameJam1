@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Aria_L_26/Game_Jam/GameJam1/GamJamMovement/Content/Materials/FX_Mat/Test/Test_Mat.uasset",
+				"D:/Aria_L_26/Game_Jam/GameJam1/GamJamMovement/Content/FX/Test.uasset",
+				"D:/Aria_L_26/Game_Jam/GameJam1/GamJamMovement/Content/Textures/Test_Texture.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/PostProcessMaterials/PPM_CelShader.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/PostProcessMaterials/PPM_Outliner.uasset",
 				"C:/Unreal Engine/GamJamMovement/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
