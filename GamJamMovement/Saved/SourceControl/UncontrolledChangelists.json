@@ -24,6 +24,7 @@
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/BasicMaterials/M_BaseColour_Blue.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/BasicMaterials/M_BaseColour_Yellow.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Blueprints/DamageTypes/BP_HealDamageType.uasset",
+				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/PlayerCharacter/PlayerUI/WBP_PlayerHUD.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Blueprints/Pickups/BP_Item_Parent.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Blueprints/Pickups/BP_Item_Ammo.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Blueprints/Pickups/BP_Item_Healer.uasset",
