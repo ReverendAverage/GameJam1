@@ -1,18 +1,29 @@
-[14808:20260:0311/100339.267:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14808:20040:0311/100339.407:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[14808:20260:0311/100339.467:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14808:6584:0311/100342.197:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14808:6584:0311/100342.197:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14808:6584:0311/100342.197:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14808:6584:0311/100342.199:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14808:20040:0311/100342.490:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14808:20040:0311/100342.492:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[26584:26500:0311/100343.825:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-86F3CD40B82F5DD9FF32B3A3C742BADF will be ignored
-[14808:2804:0311/100346.925:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14808:2804:0311/100346.928:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14808:20260:0311/100347.825:ERROR:device_event_log_impl.cc(196)] [10:03:47.825] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[14808:23304:0311/100347.871:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14808:2804:0311/103417.745:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14808:2804:0311/103807.693:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14808:2804:0311/104035.252:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[14808:20260:0311/105525.852:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16272:28272:0311/105935.017:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16272:29412:0311/105935.045:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16272:28272:0311/105935.057:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16272:25012:0311/105936.884:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16272:25012:0311/105936.886:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16272:25012:0311/105936.886:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16272:25012:0311/105936.887:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16272:27444:0311/105937.102:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16272:27444:0311/105937.102:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[2556:26260:0311/105938.907:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C6F0689CF9628EADAFEE56C4746AF8EA will be ignored
+[26564:29752:0311/105938.912:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[26564:29752:0311/105939.239:ERROR:backend_impl.cc(989)] Critical error found -8
+[26564:29752:0311/105939.239:WARNING:storage_block-inl.h(138)] Failed data load.
+[26564:29752:0311/105939.239:WARNING:storage_block-inl.h(138)] Failed data load.
+[26564:29752:0311/105939.239:ERROR:entry_impl.cc(1029)] No file for c1030000
+[26564:29752:0311/105939.239:WARNING:storage_block-inl.h(138)] Failed data load.
+[26564:29752:0311/105939.275:ERROR:entry_impl.cc(955)] Failed to save user data
+[16272:25776:0311/105941.693:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16272:28272:0311/105944.236:ERROR:device_event_log_impl.cc(196)] [10:59:44.231] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[16272:16380:0311/105944.275:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16272:25776:0311/105944.404:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16272:25776:0311/110325.889:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16272:25776:0311/110940.334:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16272:25776:0311/111338.675:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16272:25776:0311/112556.938:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16272:25776:0311/112730.695:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16272:25776:0311/113046.237:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16272:25776:0311/113619.368:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16272:28272:0311/114246.981:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
