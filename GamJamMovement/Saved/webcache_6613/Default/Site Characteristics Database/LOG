@@ -1,3 +1,7 @@
-2026/03/11-21:24:44.974 bf0 Reusing MANIFEST C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/11-21:24:44.976 bf0 Recovering log #6
-2026/03/11-21:24:44.976 bf0 Reusing old log C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
+2026/03/11-21:46:37.551 7058 Reusing MANIFEST C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/11-21:46:37.553 7058 Recovering log #6
+2026/03/11-21:46:37.554 7058 Level-0 table #6: started
+2026/03/11-21:46:37.565 7058 Level-0 table #6: 238 bytes OK
+2026/03/11-21:46:37.565 7058 Recovering log #9
+2026/03/11-21:46:37.566 7058 Reusing old log C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
+2026/03/11-21:46:37.570 7058 Delete type=0 #6
