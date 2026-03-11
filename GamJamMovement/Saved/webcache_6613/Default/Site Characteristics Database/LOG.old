@@ -1,3 +1,5 @@
-2026/03/11-14:28:50.047 5e6c Reusing MANIFEST D:\AriaL_26\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/11-14:28:50.056 5e6c Recovering log #9
-2026/03/11-14:28:50.057 5e6c Reusing old log D:\AriaL_26\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/000009.log 
+2026/03/09-11:19:30.966 3d1c Log #3: 3 ops saved to Table #4 OK
+2026/03/09-11:19:30.968 3d1c Archiving D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/03/09-11:19:30.968 3d1c Table #4: 3 entries OK
+2026/03/09-11:19:30.968 3d1c Archiving D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/09-11:19:30.978 3d1c **** Repaired leveldb D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****

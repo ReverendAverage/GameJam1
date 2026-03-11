@@ -1,3 +1,2 @@
-2026/03/11-21:08:06.148 73c Reusing MANIFEST C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/11-21:08:06.151 73c Recovering log #3
-2026/03/11-21:08:06.154 73c Reusing old log C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/09-11:19:30.991 1b20 Creating DB D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/03/09-11:19:31.007 1b20 Reusing MANIFEST D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
