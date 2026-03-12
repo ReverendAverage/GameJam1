@@ -1,24 +1,0 @@
-[19576:8848:0311/172127.671:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[19576:8848:0311/172127.900:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19576:27824:0311/172131.452:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19576:27824:0311/172131.453:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19576:27824:0311/172131.454:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19576:27824:0311/172131.455:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19576:20012:0311/172132.716:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19576:20012:0311/172132.717:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19576:8848:0311/172133.080:ERROR:device_event_log_impl.cc(196)] [17:21:33.064] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[28828:28832:0311/172133.219:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-56258DC3ECB56960E4996AE6EF8E00AE will be ignored
-[19576:29680:0311/172133.291:WARNING:leveldb_database.cc(141)] Unable to open C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19576:27608:0311/172133.873:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[19576:8848:0311/172133.927:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[19576:8848:0311/172133.927:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[19576:8848:0311/172133.927:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[19576:8848:0311/172133.927:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[19576:27608:0311/172133.931:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[14360:16220:0311/172135.429:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14360:16220:0311/172135.446:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[14360:16220:0311/172148.258:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[14360:16220:0311/172156.217:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[24548:24536:0311/172339.849:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[24548:24536:0311/172339.849:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[19576:8848:0311/172407.203:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
