@@ -1,0 +1,24 @@
+[8544:27652:0313/155500.274:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8544:27652:0313/155500.287:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[8544:9272:0313/155500.301:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8544:27652:0313/155500.322:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8544:6664:0313/155503.772:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8544:6664:0313/155503.772:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8544:6664:0313/155503.773:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8544:6664:0313/155503.773:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8544:6664:0313/155504.022:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8544:6664:0313/155504.025:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28176:9872:0313/155504.137:ERROR:backend_impl.cc(989)] Critical error found -8
+[28176:9872:0313/155504.137:ERROR:entry_impl.cc(1029)] No file for b2020000
+[28176:9872:0313/155504.137:WARNING:storage_block-inl.h(138)] Failed data load.
+[12012:20204:0313/155504.772:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4E4DDAC9C8321285C330B14604C1AFF6 will be ignored
+[8544:21392:0313/155508.830:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8544:27652:0313/155509.123:ERROR:device_event_log_impl.cc(196)] [15:55:08.793] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[8544:22496:0313/155510.564:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8544:22496:0313/155510.565:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8544:22496:0313/155838.434:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8544:22496:0313/163320.788:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8544:22496:0313/164308.087:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8544:22496:0313/165320.793:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8544:22496:0313/172355.036:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[8544:27652:0313/174526.921:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
