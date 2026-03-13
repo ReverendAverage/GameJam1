@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GameJamGit/GameJam1/GamJamMovement/Content/PlayerCharacter/BP_PlayerCharacter.uasset",
+				"D:/GameJamGit/GameJam1/GamJamMovement/Content/Maps/Lvl_Debug.umap",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/PostProcessMaterials/PPM_CelShader.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/PostProcessMaterials/PPM_Outliner.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/PostProcessMaterials/PPM_CelShader_Inst.uasset",
