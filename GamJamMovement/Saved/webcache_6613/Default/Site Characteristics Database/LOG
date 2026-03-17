@@ -1,3 +1,15 @@
-2026/03/17-11:51:51.080 30b8 Reusing MANIFEST C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/17-11:51:51.081 30b8 Recovering log #12
-2026/03/17-11:51:51.081 30b8 Reusing old log C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/000012.log 
+2026/03/17-14:08:05.223 48a8 Reusing MANIFEST C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/17-14:08:05.228 48a8 Recovering log #6
+2026/03/17-14:08:05.228 48a8 Level-0 table #12: started
+2026/03/17-14:08:05.239 48a8 Level-0 table #12: 255 bytes OK
+2026/03/17-14:08:05.243 48a8 Recovering log #12
+2026/03/17-14:08:05.244 48a8 Reusing old log C:\Unreal Engine\Repository\GameJamRepo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/000012.log 
+2026/03/17-14:08:05.247 48a8 Delete type=0 #6
+2026/03/17-14:08:05.248 17a8 Compacting 4@0 + 0@1 files
+2026/03/17-14:08:05.267 17a8 Generated table #13@0: 3 keys, 253 bytes
+2026/03/17-14:08:05.267 17a8 Compacted 4@0 + 0@1 files => 253 bytes
+2026/03/17-14:08:05.272 17a8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/17-14:08:05.273 17a8 Delete type=2 #4
+2026/03/17-14:08:05.273 17a8 Delete type=2 #6
+2026/03/17-14:08:05.273 17a8 Delete type=2 #10
+2026/03/17-14:08:05.273 17a8 Delete type=2 #12
