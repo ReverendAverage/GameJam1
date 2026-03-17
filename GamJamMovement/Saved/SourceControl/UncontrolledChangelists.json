@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Administrator/Documents/GitHub/GameJam1/GamJamMovement/Content/Maps/Stair1.umap",
+				"C:/Users/Administrator/Documents/GitHub/GameJam1/GamJamMovement/Content/Maps/Lvl1_Block.umap",
+				"C:/Users/Administrator/Documents/GitHub/GameJam1/GamJamMovement/Content/Maps/_GENERATED/Administrator/Disc_6739F8EA.uasset",
+				"C:/Users/Administrator/Documents/GitHub/GameJam1/GamJamMovement/Content/Maps/_GENERATED/Administrator/Stairs_82B25A42.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/PostProcessMaterials/PPM_CelShader.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/PostProcessMaterials/PPM_Outliner.uasset",
 				"C:/Unreal Engine/Repository/GameJamRepo/GameJam1/GamJamMovement/Content/Materials/PostProcessMaterials/PPM_CelShader_Inst.uasset",

@@ -1,0 +1,22 @@
+[6188:26604:0316/104015.810:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6188:5136:0316/104015.935:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6188:26604:0316/104015.984:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6188:27100:0316/104019.224:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Administrator\Documents\GitHub\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Administrator\Documents\GitHub\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6188:27100:0316/104019.226:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Administrator\Documents\GitHub\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Administrator\Documents\GitHub\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6188:27100:0316/104019.229:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Administrator\Documents\GitHub\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Administrator\Documents\GitHub\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6188:27100:0316/104019.230:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Administrator\Documents\GitHub\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Administrator\Documents\GitHub\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13308:27452:0316/104019.620:ERROR:backend_impl.cc(989)] Critical error found -8
+[13308:27452:0316/104019.620:ERROR:entry_impl.cc(1029)] No file for b2020000
+[13308:27452:0316/104019.620:WARNING:storage_block-inl.h(138)] Failed data load.
+[6188:26392:0316/104019.625:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6188:26392:0316/104019.627:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[19116:5716:0316/104021.319:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-85E27E14307A9B27C415495E3DDE803C will be ignored
+[6188:26604:0316/104021.980:ERROR:device_event_log_impl.cc(196)] [10:40:21.655] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9804:27808:0316/104023.321:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-1D06664E8838E72F26913FBC68DB27B5 will be ignored
+[6188:26604:0316/104849.557:ERROR:device_event_log_impl.cc(196)] [10:48:49.293] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6188:26604:0316/110628.947:ERROR:device_event_log_impl.cc(196)] [11:06:28.940] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6188:13524:0316/122033.709:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6188:13524:0316/122518.453:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6188:26604:0316/122653.854:ERROR:device_event_log_impl.cc(196)] [12:26:53.777] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6188:26604:0316/134533.021:ERROR:device_event_log_impl.cc(196)] [13:45:33.012] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6188:26604:0316/163108.438:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
