@@ -1,7 +1,1 @@
-2026/03/20-09:29:25.843 20e4 Log #9: 3 ops saved to Table #10 OK
-2026/03/20-09:29:25.845 20e4 Archiving C:\Users\New User\Desktop\School Work\Game_Jam\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/000009.log: OK
-2026/03/20-09:29:25.845 20e4 Table #4: 3 entries OK
-2026/03/20-09:29:25.845 20e4 Table #7: 1 entries OK
-2026/03/20-09:29:25.845 20e4 Table #10: 3 entries OK
-2026/03/20-09:29:25.848 20e4 Archiving C:\Users\New User\Desktop\School Work\Game_Jam\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/03/20-09:29:25.851 20e4 **** Repaired leveldb C:\Users\New User\Desktop\School Work\Game_Jam\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 562 bytes. Some data may have been lost. ****
+2026/03/20-09:29:25.854 20e4 Reusing MANIFEST C:\Users\New User\Desktop\School Work\Game_Jam\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
