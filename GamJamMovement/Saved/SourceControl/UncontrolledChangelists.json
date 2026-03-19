@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/New User/Desktop/School Work/Game_Jam/GameJam1/GamJamMovement/Content/Textures/FXs/Push_Texture_V1.uasset",
+				"C:/Users/New User/Desktop/School Work/Game_Jam/GameJam1/GamJamMovement/Content/Materials/FX_Mat/Test/Push_Mat.uasset",
+				"C:/Users/New User/Desktop/School Work/Game_Jam/GameJam1/GamJamMovement/Content/FX/Test.uasset",
+				"C:/Users/New User/Desktop/School Work/Game_Jam/GameJam1/GamJamMovement/Content/Blueprints/BP_PushDamageType.uasset",
+				"C:/Users/New User/Desktop/School Work/Game_Jam/GameJam1/GamJamMovement/Content/Textures/FXs/Push_Texture.uasset",
 				"D:/Aria_L_26/Game_Jam/GameJam1/GamJamMovement/Content/Materials/FX_Mat/Test/Test_Mat.uasset",
 				"D:/Aria_L_26/Game_Jam/GameJam1/GamJamMovement/Content/FX/Test.uasset",
 				"D:/Aria_L_26/Game_Jam/GameJam1/GamJamMovement/Content/Materials/FX_Mat/Test/Push_Mat.uasset",
