@@ -1,3 +1,5 @@
-2026/03/20-16:44:04.835 1698 Reusing MANIFEST D:\Eli Penno\Git Repo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/20-16:44:04.844 1698 Recovering log #6
-2026/03/20-16:44:04.846 1698 Reusing old log D:\Eli Penno\Git Repo\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Local Storage\leveldb/000006.log 
+2026/03/20-17:10:15.703 5590 Reusing MANIFEST D:\Aria_26\Game_Jam\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/20-17:10:15.716 5590 Recovering log #6
+2026/03/20-17:10:15.718 5590 Level-0 table #9: started
+2026/03/20-17:10:15.723 5590 Level-0 table #9: 65483 bytes OK
+2026/03/20-17:10:15.727 5590 Delete type=0 #6
