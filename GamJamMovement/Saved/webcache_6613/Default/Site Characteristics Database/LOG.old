@@ -1,3 +1,8 @@
-2026/03/20-15:39:27.104 43e8 Reusing MANIFEST D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/20-15:39:27.108 43e8 Recovering log #12
-2026/03/20-15:39:27.108 43e8 Reusing old log D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/000012.log 
+2026/03/20-16:26:52.351 74fc Reusing MANIFEST D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/20-16:26:52.352 74fc Recovering log #12
+2026/03/20-16:26:52.352 74fc Level-0 table #15: started
+2026/03/20-16:26:52.362 74fc Level-0 table #15: 367 bytes OK
+2026/03/20-16:26:52.362 74fc Recovering log #15
+2026/03/20-16:26:52.362 74fc Reusing old log D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\Site Characteristics Database/000015.log 
+2026/03/20-16:26:52.367 74fc Delete type=0 #12
+2026/03/20-16:26:52.367 74fc Delete type=2 #16
