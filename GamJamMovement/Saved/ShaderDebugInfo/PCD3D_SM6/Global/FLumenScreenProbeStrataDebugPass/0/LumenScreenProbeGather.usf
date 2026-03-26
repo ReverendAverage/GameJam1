@@ -16528,20 +16528,20 @@ static const uint TEXT_OFFSETS[15] = {
 
 // Hashes are computed using the CityHash32 function
 static const uint TEXT_HASHES[14] = {
-	0x5ba35302, // 0: "Simple           "
-	0x88644ab7, // 1: "ImportanceSample "
-	0x5e418ff3, // 2: "All              "
-	0xd6fc3cbd, // 3: "Simple           : "
-	0x1d4a8887, // 4: "ImportanceSample : "
-	0xa1829df3, // 5: "All              : "
-	0x7fee61ea, // 6: "Total            : "
-	0x133876b3, // 7: "Lumen Screen Probe"
-	0xff0791ce, // 8: "Primary  Tile Res: "
-	0x8d3aa75a, // 9: " x "
-	0x55b68133, // 10: "Overflow Tile Res: "
-	0xd2ac3ef6, // 11: " x "
-	0x367b2137, // 12: "Primary "
-	0x3620ca25 // 13: "Overflow "
+	0xbad08b9, // 0: "Simple           "
+	0x197d8e9, // 1: "ImportanceSample "
+	0x49c6628c, // 2: "All              "
+	0x9cccc486, // 3: "Simple           : "
+	0x5b074938, // 4: "ImportanceSample : "
+	0x86a9d007, // 5: "All              : "
+	0xfcbcdeac, // 6: "Total            : "
+	0x941ef3b2, // 7: "Lumen Screen Probe"
+	0xd40e40ed, // 8: "Primary  Tile Res: "
+	0x3616a923, // 9: " x "
+	0xa4061832, // 10: "Overflow Tile Res: "
+	0x75e1b9eb, // 11: " x "
+	0x6ba514c6, // 12: "Primary "
+	0xc03c8dde // 13: "Overflow "
 };
 
 uint ShaderPrintGetChar(uint InIndex)              { return TEXT_CHARS[InIndex]; }
