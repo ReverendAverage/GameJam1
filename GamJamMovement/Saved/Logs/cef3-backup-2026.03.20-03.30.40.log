@@ -1,20 +1,0 @@
-[15280:24536:0320/162652.312:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15280:13116:0320/162652.334:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[15280:24536:0320/162652.346:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15280:21032:0320/162654.280:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15280:21032:0320/162654.283:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15280:21032:0320/162654.284:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15280:21032:0320/162654.284:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15280:13116:0320/162654.503:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15280:13116:0320/162654.503:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[30416:11660:0320/162655.509:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DDAFC2CDEDC1FC148F1E79D4E293A6AF will be ignored
-[13692:30672:0320/162656.665:ERROR:entry_impl.cc(1029)] No file for 8000000d
-[13692:30672:0320/162656.665:ERROR:entry_impl.cc(1029)] No file for 8000000e
-[13692:30672:0320/162656.665:ERROR:entry_impl.cc(1029)] No file for 8000000f
-[13692:30672:0320/162656.665:ERROR:entry_impl.cc(1029)] No file for 80000010
-[15280:24536:0320/162658.849:ERROR:device_event_log_impl.cc(196)] [16:26:58.848] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[15280:28776:0320/162658.891:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\GameJamGit\GameJam1\GamJamMovement\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15280:12224:0320/162702.481:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[15280:12224:0320/162705.246:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[15280:12224:0320/162712.904:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[15280:24536:0320/162740.811:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
